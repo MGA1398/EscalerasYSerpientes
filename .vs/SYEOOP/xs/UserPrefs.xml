@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{77F6EF8A-7180-43BB-80F5-64422665DEAB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SYEOOP/Tablero.cs">
+    <Files>
+      <File FileName="SYEOOP/Program.cs" Line="19" Column="1" />
+      <File FileName="SYEOOP/EmptyClass.cs" Line="15" Column="38" />
+      <File FileName="SYEOOP/Tablero.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SYEOOP" expanded="True">
+            <Node name="SYEOOP" expanded="True">
+              <Node name="Tablero.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.SYEOOP FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

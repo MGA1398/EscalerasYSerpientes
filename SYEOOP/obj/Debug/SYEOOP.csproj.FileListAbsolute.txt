@@ -1,0 +1,6 @@
+/Users/martingalvez/Projects/SYEOOP/SYEOOP/bin/Debug/SYEOOP.exe
+/Users/martingalvez/Projects/SYEOOP/SYEOOP/bin/Debug/SYEOOP.pdb
+/Users/martingalvez/Projects/SYEOOP/SYEOOP/obj/Debug/SYEOOP.csproj.AssemblyReference.cache
+/Users/martingalvez/Projects/SYEOOP/SYEOOP/obj/Debug/SYEOOP.csproj.CoreCompileInputs.cache
+/Users/martingalvez/Projects/SYEOOP/SYEOOP/obj/Debug/SYEOOP.exe
+/Users/martingalvez/Projects/SYEOOP/SYEOOP/obj/Debug/SYEOOP.pdb
